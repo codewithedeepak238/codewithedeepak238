@@ -74,11 +74,15 @@
 
 ###
 
-<h2 align="center">My Snake Graph</h2>
+<h2 align="center">My Pac Graph</h2>
 
 ###
 
-<img src="https://raw.githubusercontent.com/codewithedeepak238/codewithedeepak238/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithedeepak238/codewithedeepak238/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithedeepak238/codewithedeepak238/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/codewithedeepak238/codewithedeepak238/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
